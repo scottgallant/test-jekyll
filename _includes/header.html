@@ -17,7 +17,9 @@
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">
-            {% if my_page.in_menu %}{{ my_page.in_menu }}{% else %} {{ my_page.title | escape }} {% endif %}
+            {% if my_page.in_menu %} {{ my_page.in_menu }} 
+            {% else %}{{ my_page.title | escape }} 
+            {% endif %}
           </a>
           {% endif %}
         {% endfor %}   

@@ -27,6 +27,8 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+permalink: /:collection/:title
+
 
 defaults:
   -

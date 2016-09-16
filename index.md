@@ -11,7 +11,7 @@ You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /
 [minima](https://github.com/jekyll/minima)
 
-<img src=" /forestryio/images/top-5-programming-animated-gifs_demonstration-of-while-loop-animation_logo.gif"  align="left" >IPsetlorm ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipsetlorm ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem.
+<img src=" /forestryio/images/top-5-programming-animated-gifs_demonstration-of-while-loop-animation_logo.gif" align="left" >IPsetlorm ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipsetlorm ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem.
 
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /

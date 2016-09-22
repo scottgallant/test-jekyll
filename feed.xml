@@ -6,9 +6,20 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Sep 2016 06:47:18 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Sep 2016 06:47:18 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 13:51:00 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 13:51:00 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Foo</title>
+        <description>
+</description>
+        <pubDate>Thu, 22 Sep 2016 09:44:00 +0000</pubDate>
+        <link>http://example.com/test-jekyll/posts/foo-1</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/foo-1</guid>
+        
+        
+      </item>
     
       <item>
         <title>About nothing again</title>

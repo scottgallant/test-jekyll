@@ -5,7 +5,9 @@ permalink: "/about/"
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme,
 
-![]({{ site.baseurl }}/forestryio/images/me-2.jpg) as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)![]({{ site.baseurl }}/forestryio/images/me2.jpeg)
+![]({{ site.baseurl }}/forestryio/images/me-2.jpg) as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+![]({{ site.baseurl }}/forestryio/images/me2.jpeg)
 
 You can find the source code for the Jekyll new theme at: {% include icon-github.html username="jekyll" %} / [minima](https://github.com/jekyll/minima)
 

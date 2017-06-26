@@ -1,8 +1,12 @@
 ---
-title: Contact
+date: '2017-06-22T15:01:22.855Z'
+excerpt: Contact description
 layout: default
 permalink: "/contact"
-excerpt: Contact description
+summary: This is the summary
+title: Contact
+in_menu: ''
+keywords: ''
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

@@ -1,12 +1,12 @@
 ---
-date: '2017-06-22T15:01:22.855Z'
+date: 2017-06-27T00:13:27.065Z
 excerpt: Contact description
+in_menu: ""
+keywords: ""
 layout: default
-permalink: "/contact"
-summary: This is the summary
+permalink: /contact
+summary: This is the summary i think and i hope
 title: Contact
-in_menu: ''
-keywords: ''
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

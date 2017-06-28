@@ -1,7 +1,12 @@
 ---
-title: About
+date: 2017-06-27T00:53:26.131Z
+excerpt: ""
+in_menu: ""
+keywords: ""
 layout: default
-permalink: "/about/"
+permalink: /about/
+summary: ""
+title: About blahblah
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme,
 

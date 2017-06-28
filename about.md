@@ -6,7 +6,7 @@ keywords: ""
 layout: default
 permalink: /about/
 summary: ""
-title: About blahblah anotehr change and again
+title: About
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme,
 

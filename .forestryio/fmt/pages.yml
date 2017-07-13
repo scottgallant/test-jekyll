@@ -6,7 +6,7 @@
   default: ''
 - name: excerpt
   label: Excerpt
-  type: text
+  type: textarea
   hidden: false
   default: ''
 - name: in_menu

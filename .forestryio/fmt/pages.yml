@@ -1,4 +1,9 @@
 ---
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
 - name: date
   label: Date
   type: datetime
@@ -31,11 +36,6 @@
   default: ''
 - name: summary
   label: Summary
-  type: text
-  hidden: false
-  default: ''
-- name: title
-  label: Title
   type: text
   hidden: false
   default: ''

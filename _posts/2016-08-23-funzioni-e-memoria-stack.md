@@ -1,9 +1,12 @@
 ---
 title: Funzioni e memoria STACK
-date: 2016-08-23 14:00:00
+date: '2016-08-23T11:00:00.000-03:00'
 layout: post
-author: 
-summary: Analisi del comportamento tra due funzioni e la memoria STACK. Ovvero come una funzione andrà ad influenzare il comportamento di una seconda funzione.
+author: author is me
+summary: Analisi del comportamento tra due funzioni e la memoria STACK. Ovvero come
+  una funzione andrà ad influenzare il comportamento di una seconda funzione.
+categories: []
+keywords: ''
 ---
 Analizziamo il codice sotto e arriveremo a capire come una funzione, che non rispetta alcuni accorgimenti, generi un output inaspettato.  
 

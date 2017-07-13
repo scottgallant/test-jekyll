@@ -1,6 +1,24 @@
 ---
-- name: title
-  label: Title
+- name: date
+  label: Date
+  type: datetime
+  fields: []
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: text
+  fields: []
+  hidden: false
+  default: ''
+- name: in_menu
+  label: In menu
+  type: text
+  fields: []
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
   type: text
   fields: []
   hidden: false
@@ -23,27 +41,9 @@
   fields: []
   hidden: false
   default: ''
-- name: in_menu
-  label: In menu
+- name: title
+  label: Title
   type: text
-  fields: []
-  hidden: false
-  default: ''
-- name: excerpt
-  label: Excerpt
-  type: text
-  fields: []
-  hidden: false
-  default: ''
-- name: keywords
-  label: Keywords
-  type: text
-  fields: []
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
   fields: []
   hidden: false
   default: ''

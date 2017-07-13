@@ -2,48 +2,40 @@
 - name: date
   label: Date
   type: datetime
-  fields: []
   hidden: false
   default: ''
 - name: excerpt
   label: Excerpt
   type: text
-  fields: []
   hidden: false
   default: ''
 - name: in_menu
   label: In menu
   type: text
-  fields: []
   hidden: false
   default: ''
 - name: keywords
   label: Keywords
   type: text
-  fields: []
   hidden: false
   default: ''
 - name: layout
   label: Layout
   type: text
-  fields: []
   hidden: false
   default: default
 - name: permalink
   label: Permalink
   type: text
-  fields: []
   hidden: false
   default: ''
 - name: summary
   label: Summary
   type: text
-  fields: []
   hidden: false
   default: ''
 - name: title
   label: Title
   type: text
-  fields: []
   hidden: false
   default: ''

@@ -6,7 +6,7 @@ keywords: ''
 layout: default
 permalink: "/about/"
 summary: ''
-title: About something blah blah
+title: About something
 ---
 
 

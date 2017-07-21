@@ -1,6 +1,7 @@
 ---
 sections: []
-pages: []
+pages:
+- index.md
 fields:
 - type: text
   name: blahb_lah

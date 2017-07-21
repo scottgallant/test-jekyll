@@ -1,8 +1,10 @@
 ---
-title: Ipset lorum ipse
-layout: default
+date: '2017-07-21T23:09:17.654Z'
 excerpt: Descrizione descr descr descr descr descr descr descr
 keywords: uno, due, tre
+layout: default
+title: Ipset lorum ipse
+blahb_lah: ''
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

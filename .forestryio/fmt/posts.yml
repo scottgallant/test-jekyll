@@ -9,14 +9,14 @@
   type: text
   hidden: false
   default: ''
+- type: textarea
+  name: yay
+  label: Yay
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: '2017-07-21T17:13:50.876Z'
-- type: textarea
-  name: yay
-  label: Yay
 - name: categories
   label: Categories
   type: tag_list

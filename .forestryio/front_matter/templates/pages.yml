@@ -1,6 +1,11 @@
 ---
 sections: []
-pages: []
+pages:
+- information.md
+- index.md
+- contact.md
+- blog.html
+- about.md
 fields:
 - name: title
   label: Title

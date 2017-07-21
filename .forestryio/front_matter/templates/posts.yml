@@ -1,5 +1,6 @@
 ---
-sections: []
+sections:
+- posts
 pages: []
 fields:
 - name: layout

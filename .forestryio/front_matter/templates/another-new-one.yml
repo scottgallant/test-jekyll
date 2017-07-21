@@ -1,6 +1,7 @@
 ---
 sections: []
-pages: []
+pages:
+- _posts/2016-09-22-1-foo.md
 fields:
 - type: text
   name: not_working

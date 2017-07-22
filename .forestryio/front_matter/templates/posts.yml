@@ -41,3 +41,13 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: field_group
+  name: author
+  label: Author
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: file
+    name: picture
+    label: Picture

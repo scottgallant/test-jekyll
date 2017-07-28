@@ -1,5 +1,4 @@
 ---
-sections: []
 pages: []
 hide_body: false
 fields:
@@ -7,3 +6,4 @@ fields:
   name: should_work_this_time
   label: Should work this time
   description: asdf
+collections: []

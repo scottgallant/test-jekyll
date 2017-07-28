@@ -1,5 +1,4 @@
 ---
-sections: []
 pages:
 - _posts/2016-09-22-1-foo.md
 hide_body: false
@@ -7,3 +6,4 @@ fields:
 - type: text
   name: not_working
   label: not working
+collections: []

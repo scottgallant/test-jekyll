@@ -1,6 +1,4 @@
 ---
-sections:
-- posts
 pages: []
 hide_body: false
 fields:
@@ -52,3 +50,5 @@ fields:
   - type: file
     name: picture
     label: Picture
+collections:
+- _posts

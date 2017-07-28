@@ -2,6 +2,7 @@
 sections:
 - posts
 pages: []
+hide_body: false
 fields:
 - name: layout
   label: Layout

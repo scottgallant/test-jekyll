@@ -1,11 +1,12 @@
 ---
 sections:
-  - pages
+- pages
 pages:
 - information.md
-- contact.md
-- blog.html
 - about.md
+- blog.html
+- contact.md
+hide_body: false
 fields:
 - name: title
   label: Title

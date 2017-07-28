@@ -1,5 +1,6 @@
 ---
-sections: []
+sections:
+  - pages
 pages:
 - information.md
 - contact.md

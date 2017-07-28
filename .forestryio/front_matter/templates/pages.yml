@@ -1,11 +1,7 @@
 ---
 collections:
 - _pages
-pages:
-- information.md
-- about.md
-- blog.html
-- contact.md
+pages: []
 hide_body: false
 fields:
 - name: title

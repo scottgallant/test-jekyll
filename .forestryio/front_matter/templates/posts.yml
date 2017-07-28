@@ -26,7 +26,7 @@ fields:
   label: Categories
   type: tag_list
   hidden: false
-  default:
+  default: 
 - name: summary
   label: Summary
   type: textarea

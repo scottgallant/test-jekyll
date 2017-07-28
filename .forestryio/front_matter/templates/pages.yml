@@ -1,6 +1,7 @@
 ---
 collections:
 - _posts
+pages:
 hide_body: false
 fields:
 - name: title

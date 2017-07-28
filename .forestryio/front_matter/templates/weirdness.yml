@@ -1,4 +1,5 @@
 ---
+collections: []
 pages:
 - index.md
 hide_body: false
@@ -6,4 +7,3 @@ fields:
 - type: text
   name: blahb_lah
   label: blahb lah
-collections: []

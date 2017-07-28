@@ -1,4 +1,6 @@
 ---
+collections:
+- _pages
 pages:
 - information.md
 - about.md
@@ -46,5 +48,3 @@ fields:
   type: text
   hidden: false
   default: ''
-collections:
-- _pages

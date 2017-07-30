@@ -1,3 +1,5 @@
 ---
-_pages: posts
-_posts: pages
+_pages:
+  default_front_matter_template: posts
+_posts:
+  default_front_matter_template: pages

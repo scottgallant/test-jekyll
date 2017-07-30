@@ -1,5 +1,3 @@
 ---
-- - _pages
-  - posts
-- - _posts
-  - pages
+- _pages: posts
+- _posts: pages

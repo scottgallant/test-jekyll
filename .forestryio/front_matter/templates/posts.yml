@@ -1,6 +1,4 @@
 ---
-collections:
-- _pages
 hide_body: false
 fields:
 - name: layout

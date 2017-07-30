@@ -1,7 +1,11 @@
 ---
-title: Le strutture
+title: Le strutture asdd
 date: '2016-09-01 00:00:00'
 layout: post
+summary: ''
+keywords: ''
+excerpt: ''
+in_menu: ''
 ---
 
 1. [Definire una struttura](#definire-una-struttura)

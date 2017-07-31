@@ -1,7 +1,4 @@
 ---
-pages:
-- index.md
-- _posts/2016-09-22-foo.md
 hide_body: false
 fields:
 - type: text

@@ -9,7 +9,5 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 collections:
-  _pages:
-    default_front_matter_template: pages
   _posts:
     default_front_matter_template: posts

@@ -1,5 +1,4 @@
 ---
-date: 2017-06-27T00:13:27.065Z
 excerpt: Contact description
 in_menu: ""
 keywords: ""

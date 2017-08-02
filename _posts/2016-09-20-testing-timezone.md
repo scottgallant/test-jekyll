@@ -1,10 +1,13 @@
 ---
 title: testing timezone
-date: '2016-09-20 21:29:00'
+date: 02/08/2017 7:00 PM
 layout: post
-author: Mr. Jack
-categories: ''
+author:
+  name: ''
+  picture: ''
+categories: []
 summary: ''
 keywords: ''
+yay: ''
 ---
 Will it publish?

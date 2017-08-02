@@ -6,15 +6,15 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Aug 2017 17:52:09 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Aug 2017 17:52:09 +0000</lastBuildDate>
-    <generator>Jekyll v3.5.0</generator>
+    <pubDate>Wed, 02 Aug 2017 16:11:47 -0300</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2017 16:11:47 -0300</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>Test post</title>
         <description>
 </description>
-        <pubDate>Wed, 02 Aug 2017 16:00:00 +0000</pubDate>
+        <pubDate>Wed, 02 Aug 2017 16:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/test-post</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/test-post</guid>
         
@@ -25,7 +25,7 @@
         <title>Foo</title>
         <description>
 </description>
-        <pubDate>Thu, 22 Sep 2016 12:17:00 +0000</pubDate>
+        <pubDate>Thu, 22 Sep 2016 12:17:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/foo</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/foo</guid>
         
@@ -36,7 +36,7 @@
         <title>About nothing again</title>
         <description>&lt;p&gt;blah blah&lt;/p&gt;
 </description>
-        <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/about-nothing</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/about-nothing</guid>
         
@@ -47,20 +47,9 @@
         <title>Foo</title>
         <description>
 </description>
-        <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/1-foo</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/1-foo</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>testing timezone</title>
-        <description>&lt;p&gt;Will it publish?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Sep 2016 21:29:00 +0000</pubDate>
-        <link>http://example.com/test-jekyll/posts/testing-timezone</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/testing-timezone</guid>
         
         
       </item>
@@ -642,7 +631,7 @@ appointment[2] ┬ .sdate ┬ .day
   &lt;li&gt;&lt;a href=&quot;https://www.amazon.it/Programmare-C-Introduzione-al-linguaggio/dp/8871926609&quot; target=&quot;_blank&quot;&gt;Programmare in C - Introduzione al linguaggio (Kochan - Pearson)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 01 Sep 2016 00:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/le-strutture</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/le-strutture</guid>
         
@@ -740,7 +729,7 @@ number = 30
   &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/3801557/can-we-change-the-value-of-a-constant-through-pointers&quot;&gt;Can we change the value of a constant through pointers?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 24 Aug 2016 12:00:00 +0000</pubDate>
+        <pubDate>Wed, 24 Aug 2016 09:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/const-and-scanf</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/const-and-scanf</guid>
         
@@ -824,7 +813,7 @@ Valore di y: 7
 &lt;p&gt;Se la variabile &lt;code class=&quot;highlighter-rouge&quot;&gt;y&lt;/code&gt; fosse stata inizializza nel modo seguente &lt;code class=&quot;highlighter-rouge&quot;&gt;y = dummy&lt;/code&gt; l’output sarebbe stato 11.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 23 Aug 2016 14:00:00 +0000</pubDate>
+        <pubDate>Tue, 23 Aug 2016 11:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/funzioni-e-memoria-stack</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/funzioni-e-memoria-stack</guid>
         
@@ -959,7 +948,7 @@ Inserisci una parola: qweeerty
   &lt;li&gt;&lt;a href=&quot;https://it.wikipedia.org/wiki/Canali_standard#Standard_input_.28stdin.29&quot; target=&quot;_blank&quot;&gt;Standard input (stdin)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 22 Aug 2016 12:00:00 +0000</pubDate>
+        <pubDate>Mon, 22 Aug 2016 09:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/gestire-le-stringhe-con-getchar</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/gestire-le-stringhe-con-getchar</guid>
         
@@ -974,10 +963,36 @@ Inserisci una parola: qweeerty
 
 &lt;p&gt;Lorem ipsum dolor sit amet, lacinia adipiscing quisque, nam ipsum amet non, elit maecenas pede eget nulla, faucibus fringilla purus dolor maecenas. Laboris tellus senectus luctus tellus quam vestibulum, massa odio a lacus nulla vestibulum, odio fermentum nibh. Rhoncus nec aliquam vel hendrerit excepteur, non suspendisse duis feugiat vitae, lacinia eros eget mollis integer, in montes proin cras adipiscing fermentum nunc. Suscipit quis et convallis rhoncus, vestibulum luctus sapien vehicula est vestibulum. Mollis nonummy neque montes sodales, nibh eu, eros amet mauris aptent pede sit donec, et aenean congue imperdiet velit integer. Semper purus magna justo. Porta sed. Integer at integer sollicitudin ipsum erat eu, inceptos fusce. Wisi vestibulum pulvinar elit in. In vitae sem, orci nibh aliquet accumsan, in neque et turpis semper, vel varius arcu faucibus risus ac felis, varius dignissim in.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 10 Aug 2016 23:00:00 +0000</pubDate>
+        <pubDate>Wed, 10 Aug 2016 23:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/ipset-lorum-ipse</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/ipset-lorum-ipse</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Have good day!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To Aadd new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Aug 2016 06:21:23 -0300</pubDate>
+        <link>http://example.com/test-jekyll/posts/have-good-day</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/have-good-day</guid>
+        
+        
+        <category>demo</category>
         
       </item>
     

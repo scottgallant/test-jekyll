@@ -2,7 +2,6 @@
 pages:
 - information.md
 - index.md
-- contact.md
 - blog.html
 - about.md
 hide_body: false

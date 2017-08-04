@@ -1,5 +1,5 @@
 ---
-excerpt: Contact descriptionsdfsdf
+excerpt: Contact description
 in_menu: ''
 keywords: ''
 layout: default

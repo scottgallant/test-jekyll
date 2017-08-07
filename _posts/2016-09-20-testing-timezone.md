@@ -1,6 +1,6 @@
 ---
 title: testing timezone
-date: 02/08/2017 7:00 PM
+date: 2017-08-07 00:00:00 +00:00
 layout: post
 author:
   name: ''
@@ -9,5 +9,9 @@ categories: []
 summary: ''
 keywords: ''
 yay: ''
+excerpt: ''
+in_menu: ''
+not_working: ''
+blahb_lah: ''
 ---
 Will it publish?

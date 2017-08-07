@@ -6,8 +6,8 @@
 </description>
     <link>http://example.com/test-jekyll/</link>
     <atom:link href="http://example.com/test-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Aug 2017 14:49:41 -0300</pubDate>
-    <lastBuildDate>Mon, 07 Aug 2017 14:49:41 -0300</lastBuildDate>
+    <pubDate>Mon, 07 Aug 2017 14:57:02 -0300</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2017 14:57:02 -0300</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -44,23 +44,23 @@
       </item>
     
       <item>
+        <title>About nothing again</title>
+        <description>&lt;p&gt;blah blah&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Sep 2016 05:07:00 -0300</pubDate>
+        <link>http://example.com/test-jekyll/posts/about-nothing</link>
+        <guid isPermaLink="true">http://example.com/test-jekyll/posts/about-nothing</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Foo</title>
         <description>
 </description>
         <pubDate>Thu, 22 Sep 2016 00:00:00 -0300</pubDate>
         <link>http://example.com/test-jekyll/posts/1-foo</link>
         <guid isPermaLink="true">http://example.com/test-jekyll/posts/1-foo</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>About nothing again</title>
-        <description>&lt;p&gt;blah blah&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Sep 2016 21:00:00 -0300</pubDate>
-        <link>http://example.com/test-jekyll/posts/about-nothing</link>
-        <guid isPermaLink="true">http://example.com/test-jekyll/posts/about-nothing</guid>
         
         
       </item>

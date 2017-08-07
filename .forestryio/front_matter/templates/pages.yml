@@ -1,17 +1,12 @@
 ---
 pages:
-- contact.md
 - information.md
 - index.md
+- contact.md
 - blog.html
 - about.md
 hide_body: false
 fields:
-- name: title
-  label: Title
-  type: textarea
-  hidden: false
-  default: ''
 - name: date
   label: Date
   type: datetime
@@ -19,7 +14,7 @@ fields:
   default: ''
 - name: excerpt
   label: Excerpt
-  type: textarea
+  type: text
   hidden: false
   default: ''
 - name: in_menu
@@ -44,6 +39,21 @@ fields:
   default: ''
 - name: summary
   label: Summary
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: nothing_to_see_here
+  label: Nothing to see here
+  type: text
+  hidden: false
+  default: ''
+- name: blahb_lah
+  label: Blahb lah
   type: text
   hidden: false
   default: ''

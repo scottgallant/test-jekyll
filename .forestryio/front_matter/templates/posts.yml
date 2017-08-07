@@ -1,4 +1,17 @@
 ---
+pages:
+- _posts/2016-09-20-testing-timezone.md
+- _posts/2017-08-02-test-post.md
+- _posts/2016-09-22-foo.md
+- _posts/2016-09-22-about-nothing.md
+- _posts/2016-09-22-1-foo.md
+- _posts/2016-09-01-le-strutture.md
+- _posts/2016-08-24-const-and-scanf.md
+- _posts/2016-08-23-funzioni-e-memoria-stack.md
+- _posts/2016-08-22-gestire-le stringhe-con-getchar.md
+- _posts/2016-08-11-ipset-lorum-ipse.md
+- _posts/2016-08-04-have-good-day.markdown
+- _posts/2016-08-03-welcome-to-jekyll.markdown
 hide_body: false
 fields:
 - name: layout
@@ -11,14 +24,11 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: textarea
-  name: yay
-  label: Yay
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: 2017-07-21 14:13:50 -03:00
+  default: ''
 - name: categories
   label: Categories
   type: tag_list
@@ -31,7 +41,18 @@ fields:
   default: ''
 - name: author
   label: Author
-  type: text
+  type: field_group
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: picture
+    label: Picture
+    type: text
+    hidden: false
+    default: ''
   hidden: false
   default: Mr. Jack
 - name: keywords
@@ -39,13 +60,28 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: field_group
-  name: author
-  label: Author
-  fields:
-  - type: text
-    name: name
-    label: Name
-  - type: file
-    name: picture
-    label: Picture
+- name: excerpt
+  label: Excerpt
+  type: text
+  hidden: false
+  default: ''
+- name: in_menu
+  label: In menu
+  type: text
+  hidden: false
+  default: ''
+- name: not_working
+  label: Not working
+  type: text
+  hidden: false
+  default: ''
+- name: blahb_lah
+  label: Blahb lah
+  type: text
+  hidden: false
+  default: ''
+- name: yay
+  label: Yay
+  type: text
+  hidden: false
+  default: ''

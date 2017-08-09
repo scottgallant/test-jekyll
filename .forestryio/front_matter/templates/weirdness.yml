@@ -4,3 +4,6 @@ fields:
 - type: text
   name: blahb_lah
   label: blahb lah
+- type: text
+  name: blahblah
+  label: blahblah

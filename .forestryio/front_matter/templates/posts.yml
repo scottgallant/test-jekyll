@@ -18,7 +18,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2017-07-21 14:13:50 -03:00
+  default: 2017-07-21 14:13:50 -0300
 - name: categories
   label: Categories
   type: tag_list

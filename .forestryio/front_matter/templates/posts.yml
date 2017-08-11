@@ -49,3 +49,10 @@ fields:
   - type: file
     name: picture
     label: Picture
+- type: select
+  config:
+    source:
+      type: pages
+      section: posts
+  label: Related post
+  name: related_post

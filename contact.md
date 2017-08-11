@@ -5,9 +5,9 @@ keywords: ''
 layout: default
 permalink: "/contact"
 summary: This is the summary i think and i hope
-title: Contact
+title: Contact page
 nothing_to_see_here: ''
-date: 2017-08-02 21:00:00 -03:00
+date: 2017-08-03 00:00:00 +0000
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

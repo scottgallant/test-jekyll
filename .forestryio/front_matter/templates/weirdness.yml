@@ -6,4 +6,4 @@ fields:
   label: blahblah
 - type: text
   name: go_away
-  label: Go away
+  label: Go

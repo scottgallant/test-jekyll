@@ -6,4 +6,4 @@ fields:
   label: blahblah
 - type: boolean
   name: go_away
-  label: Go away
+  label: Go

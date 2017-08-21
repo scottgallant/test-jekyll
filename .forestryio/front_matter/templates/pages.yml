@@ -8,7 +8,7 @@ pages:
 hide_body: false
 fields:
 - name: title
-  label: Title
+  label: Title2
   type: boolean
   hidden: false
   default: ''

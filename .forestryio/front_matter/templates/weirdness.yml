@@ -1,9 +1,9 @@
 ---
 hide_body: false
 fields:
-- type: text
+- type: boolean
   name: blahb_lah
   label: blahblah
-- type: text
+- type: boolean
   name: go_away
-  label: Go
+  label: Go away

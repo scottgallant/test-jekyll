@@ -3,49 +3,49 @@ hide_body: false
 fields:
 - name: layout
   label: Layout
-  type: text
+  type: boolean
   hidden: false
   default: post
 - name: title
   label: Title
-  type: text
+  type: boolean
   hidden: false
   default: ''
-- type: textarea
+- type: boolean
   name: yay
   label: Yay
 - name: date
   label: Date
-  type: datetime
+  type: boolean
   hidden: false
   default: 2017-07-21 14:13:50 -0300
 - name: categories
   label: Categories
-  type: tag_list
+  type: boolean
   hidden: false
   default: 
 - name: summary
   label: Summary
-  type: textarea
+  type: boolean
   hidden: false
   default: ''
 - name: author
   label: Author
-  type: text
+  type: boolean
   hidden: false
   default: Mr. Jack
 - name: keywords
   label: Keywords
-  type: text
+  type: boolean
   hidden: false
   default: ''
-- type: field_group
+- type: boolean
   name: author
   label: Author
   fields:
-  - type: text
+  - type: boolean
     name: name
     label: Name
-  - type: file
+  - type: boolean
     name: picture
     label: Picture

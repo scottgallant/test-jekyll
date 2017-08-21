@@ -8,42 +8,42 @@ pages:
 hide_body: false
 fields:
 - name: title
-  label: Title
-  type: textarea
+  label: Title2
+  type: boolean
   hidden: false
   default: ''
 - name: date
   label: Date
-  type: datetime
+  type: boolean
   hidden: false
   default: ''
 - name: excerpt
   label: Excerpt
-  type: textarea
+  type: boolean
   hidden: false
   default: ''
 - name: in_menu
   label: In menu
-  type: text
+  type: boolean
   hidden: false
   default: ''
 - name: keywords
   label: Keywords
-  type: text
+  type: boolean
   hidden: false
   default: ''
 - name: layout
   label: Layout
-  type: text
+  type: boolean
   hidden: false
   default: default
 - name: permalink
   label: Permalink
-  type: text
+  type: boolean
   hidden: false
   default: ''
 - name: summary
   label: Summary
-  type: text
+  type: boolean
   hidden: false
   default: ''

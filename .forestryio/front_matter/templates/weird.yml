@@ -5,5 +5,5 @@ fields:
   name: blahb_lah
   label: blahblah
 - type: text
-  name: go_away_nope
+  name: go_away
   label: Go away

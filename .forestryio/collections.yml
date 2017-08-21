@@ -1,5 +1,0 @@
----
-_pages:
-  default_front_matter_template: pages
-_posts:
-  default_front_matter_template: posts

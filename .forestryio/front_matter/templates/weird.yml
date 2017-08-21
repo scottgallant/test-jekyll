@@ -3,7 +3,7 @@ hide_body: false
 fields:
 - type: text
   name: blahb_lah
-  label: blahb
+  label: blahblah
 - type: text
   name: blahblah
   label: blahblah

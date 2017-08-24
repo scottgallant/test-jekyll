@@ -6,7 +6,7 @@ fields:
   label: blahblah
 - type: text
   name: go_away
-  label: Go away
+  label: Go away2
 - type: boolean
   name: test
-  label: test3
+  label: test2

@@ -10,6 +10,6 @@ fields:
 - type: boolean
   name: test
   label: test2
-- type: ''
+- type: 
   name: numbers
-  label: numbers
+  label: numbers2

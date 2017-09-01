@@ -1,0 +1,59 @@
+---
+pages:
+- information.md
+- index.md
+- contact.md
+- blog.html
+- about.md
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: text
+  hidden: false
+  default: ''
+- name: in_menu
+  label: In menu
+  type: text
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: nothing_to_see_here
+  label: Nothing to see here
+  type: text
+  hidden: false
+  default: ''
+- name: blahb_lah
+  label: Blahb lah
+  type: text
+  hidden: false
+  default: ''

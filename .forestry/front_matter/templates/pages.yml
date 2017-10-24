@@ -1,8 +1,8 @@
 ---
 pages:
 - information.md
-- contact.md
 - index.md
+- contact.md
 - blog.html
 - about.md
 hide_body: false

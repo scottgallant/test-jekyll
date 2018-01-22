@@ -4,6 +4,7 @@ fields:
 - type: text
   name: blahb_lah
   label: blahblah
+  default: ''
 - type: text
   name: go_away
   label: Go away

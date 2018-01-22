@@ -2,9 +2,9 @@
 pages:
 - blog.html
 - contact.md
-- index.md
 - about.md
 - information.md
+- index.md
 hide_body: false
 fields:
 - name: title

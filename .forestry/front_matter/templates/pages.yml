@@ -1,9 +1,9 @@
 ---
 pages:
 - about.md
+- blog.html
 - contact.md
 - index.md
-- blog.html
 - information.md
 hide_body: false
 fields:

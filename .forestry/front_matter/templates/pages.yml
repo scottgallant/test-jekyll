@@ -1,10 +1,10 @@
 ---
 pages:
-- information.md
+- about.md
 - blog.html
 - contact.md
 - index.md
-- about.md
+- information.md
 hide_body: false
 fields:
 - name: title

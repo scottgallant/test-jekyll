@@ -1,7 +1,7 @@
 ---
 pages:
-- _posts/2017-08-02-test-post.md
 - _posts/2016-08-03-welcome-to-jekyll.markdown
+- _posts/2017-08-02-test-post.md
 hide_body: false
 fields:
 - type: text

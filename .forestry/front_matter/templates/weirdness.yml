@@ -7,3 +7,6 @@ fields:
 - type: text
   name: go_away
   label: Go away
+- type: textarea
+  name: yay
+  label: yay

@@ -21,13 +21,3 @@ IPsetlorm ipse loret lorem ipse loret lorem ipse loret lorem ipse loret lorem ip
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
-
-updated content
-
-will it break? how about this time?
-
-blahblahblah
-
-single change
-
-another change

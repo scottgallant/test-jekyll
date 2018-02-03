@@ -1,6 +1,6 @@
 ---
 title: Funzioni e memoria STACK
-date: 2016-08-23 11:00:00 -0300
+date: 2016-08-23 14:00:00 +0000
 layout: post
 author: author is me
 summary: Analisi del comportamento tra due funzioni e la memoria STACK. Ovvero come

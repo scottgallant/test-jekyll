@@ -1,8 +1,9 @@
 ---
 title: Gestire le stringhe con getchar
-date: 2016-08-22 12:00:00
+date: 2016-08-22 12:00:00 +0000
 layout: post
-summary: Aquisita una stringa digitata dall'utente, verrà controllata per determina se contiene al massimo due caratteri uguali di seguito.
+summary: Aquisita una stringa digitata dall'utente, verrà controllata per determina
+  se contiene al massimo due caratteri uguali di seguito.
 ---
 
 Aquisita una stringa digitata dall'utente, verrà controllata per determina se contiene al massimo due caratteri uguali di seguito. 

@@ -1,6 +1,6 @@
 ---
 title: Le strutture asd
-date: '2016-09-01 00:00:00'
+date: 2016-09-01 00:00:00 +0000
 layout: post
 summary: ''
 keywords: ''

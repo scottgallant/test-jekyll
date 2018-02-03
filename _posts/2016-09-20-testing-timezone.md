@@ -1,6 +1,6 @@
 ---
 title: testing timezone
-date: 2017-08-07 00:00:00 +00:00
+date: 2017-08-07 00:00:00 +0000
 layout: post
 author:
   name: ''

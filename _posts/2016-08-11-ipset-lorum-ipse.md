@@ -1,6 +1,6 @@
 ---
 title: 'Ipset lorum ipse '
-date: '2016-08-10 23:00:00'
+date: 2016-08-10 00:00:00 +0000
 layout: post
 author: evy
 ---

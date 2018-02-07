@@ -1,8 +1,8 @@
 ---
 pages:
+- index.md
 - pleas-this-time.md
 - new-page-draft.md
-- index.md
 hide_body: false
 fields:
 - name: date

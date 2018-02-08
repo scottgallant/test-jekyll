@@ -1,6 +1,8 @@
 ---
 pages:
 - index.md
+- new-page-draft.md
+- should-be-draft.md
 hide_body: false
 fields:
 - name: date

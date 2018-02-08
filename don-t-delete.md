@@ -7,5 +7,4 @@ in_menu: ''
 summary: ''
 keywords: ''
 blahb_lah: ''
-published: false
 ---

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content in Homepage on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Dec 2017 17:00:00 -1100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About us</title>
+      <link>/about-us/</link>
+      <pubDate>Sun, 31 Dec 2017 17:00:00 -1100</pubDate>
+      
+      <guid>/about-us/</guid>
+      <description>Racoon Bandit show a knack for warm folk-rock arrangements that hide an anthemic bite. Equal parts roots, pysch-rock, and indie, the quartet turned heads across the country this year with their third independent release &amp;ldquo;Close Your Eyes.&amp;rdquo; The album was featured on several Best of 2015 lists, including Mixtape Magazine‘s Top-9 East Coast albums and Top-45 Canadian records of 2015. The album also picked up a 2016 East Coast Music Award nomination for Rock Recording of the Year and 3 Music PEI nominations.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 31 Dec 2017 17:00:00 -1100</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>For bookings and all other inquiries:
+ racoonbanditmusic@gmail.com  Otherwise, look here:
+ facebook CBC Radio3 sonicbids iTunes  </description>
+    </item>
+    
+    <item>
+      <title>Shows</title>
+      <link>/shows/</link>
+      <pubDate>Sun, 31 Dec 2017 17:00:00 -1100</pubDate>
+      
+      <guid>/shows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store</title>
+      <link>/store/</link>
+      <pubDate>Sun, 31 Dec 2017 17:00:00 -1100</pubDate>
+      
+      <guid>/store/</guid>
+      <description>Buy from bandcamp
+Buy from iTunes</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>/videos/</link>
+      <pubDate>Sun, 31 Dec 2017 17:00:00 -1100</pubDate>
+      
+      <guid>/videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/music/</link>
+      <pubDate>Sat, 30 Dec 2017 17:00:00 -1100</pubDate>
+      
+      <guid>/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press</title>
+      <link>/press/</link>
+      <pubDate>Sat, 30 Dec 2017 17:00:00 -1100</pubDate>
+      
+      <guid>/press/</guid>
+      <description>For interviews or media requests, please contact Pigeon Row, via trevor@pigeonrow.ca
+DOWNLOAD ARTWORK AND HIGH RES PHOTOS
+Praise for Racoon Bandit: _“Their sound has elicited comparisons to such East Coast indie rock peers as the revered Sloan and Thrush Hermit, and their excellent new album Close Your Eyes justifies that.”_ – NewCanadianMusic
+“Like Joel Plaskett on an ayahuasca binge…Close Your Eyes accomplishes the two things every album should strive for: It leaves the listener wanting more, and wondering where they left their dealer’s phone number.</description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/download/</guid>
+      <description>Download!</description>
+    </item>
+    
+  </channel>
+</rss>

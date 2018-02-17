@@ -29,6 +29,10 @@ markdown: kramdown
 
 permalink: /:collection/:title
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 defaults:
   -
@@ -38,7 +42,7 @@ defaults:
     values:
       layout: "post"
       author: "Mr. Jack"
-      categories: 
+      categories:
       summary: ""
       keywords: ""
   -
@@ -48,4 +52,4 @@ defaults:
     values:
       layout: "default"
       summary: ""
-      keywords: ""      
+      keywords: ""

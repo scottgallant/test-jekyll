@@ -4,6 +4,7 @@ pages:
 - index.md
 - should-be-draft.md
 - drafty-draft.md
+- _pages/new-page.md
 hide_body: false
 fields:
 - name: date

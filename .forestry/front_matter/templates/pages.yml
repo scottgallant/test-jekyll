@@ -1,10 +1,10 @@
 ---
 pages:
-- _pages/new-page.md
-- should-be-draft.md
-- drafty-draft.md
-- don-t-delete.md
 - index.md
+- don-t-delete.md
+- drafty-draft.md
+- should-be-draft.md
+- _pages/new-page.md
 hide_body: false
 fields:
 - name: date

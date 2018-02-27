@@ -1,12 +1,13 @@
 ---
-date: 2017-07-21 23:09:17 +0000
-excerpt: Descrizione descr descr descr descr descr descr descr
-keywords: uno, due, tre
-layout: default
+date: 2017-07-21 20:09:17 -0300
 title: Ipset lorum ipsef
-blahb_lah: ''
+layout: default
+excerpt: Descrizione descr descr descr descr descr descr descr
 in_menu: ''
 summary: ''
+keywords: uno, due, tre
+blahb_lah: ''
+categories: []
 ---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

@@ -1,3 +1,55 @@
 ---
+pages:
+- new-page-draft.md
+- index.md
+- don-t-delete.md
+- _drafts/_pages/drafty-draft.md
+- _drafts/_pages/should-be-draft.md
+- _pages/new-page.md
 hide_body: false
-fields: []
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: excerpt
+  label: Excerpt
+  type: text
+  hidden: false
+  default: ''
+- name: in_menu
+  label: In menu
+  type: text
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: text
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
+  type: text
+  hidden: false
+  default: ''
+- name: blahb_lah
+  label: Blahb lah
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''

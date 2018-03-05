@@ -1,9 +1,10 @@
 ---
 pages:
-- index.md
-- don-t-delete.md
-- drafty-draft.md
-- should-be-draft.md
 - _pages/new-page.md
+- _drafts/_pages/should-be-draft.md
+- _drafts/_pages/drafty-draft.md
+- don-t-delete.md
+- index.md
+- new-page-draft.md
 hide_body: false
 fields: []

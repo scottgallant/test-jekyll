@@ -17,6 +17,7 @@ pages:
 - _posts/videos/2018-02-05-first-video.md
 - _posts/draft-test-2.md
 - _posts/matt-draft-test.md
+- _posts/html-post.html
 hide_body: false
 fields:
 - name: layout

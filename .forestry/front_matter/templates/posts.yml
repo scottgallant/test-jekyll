@@ -1,7 +1,5 @@
 ---
 pages:
-- _posts/2016-09-22-about-nothing.md
-- _posts/2017-08-02-test-post.md
 - _posts/2016-08-03-welcome-to-jekyll.markdown
 - _posts/2016-08-04-have-good-day.markdown
 - _posts/2016-08-11-ipset-lorum-ipse.md
@@ -11,6 +9,8 @@ pages:
 - _posts/2016-09-01-le-strutture.md
 - _posts/2016-09-22-1-foo.md
 - _posts/2016-09-22-foo.md
+- _posts/2016-09-22-about-nothing.md
+- _posts/2017-08-02-test-post.md
 - _posts/2016-09-20-testing-timezone.md
 - _posts/2018-02-05-draft-post.md
 - _posts/2018-02-05-test-draft.md

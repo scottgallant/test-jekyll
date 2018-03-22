@@ -46,6 +46,8 @@ defaults:
       summary: ""
       keywords: ""
   -
+    scope:
+      type: "pages"
     values:
       layout: "default"
       summary: ""

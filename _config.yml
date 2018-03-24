@@ -45,7 +45,9 @@ defaults:
       categories:
       summary: ""
       keywords: ""
-  -
+  - scope:
+      path: ""
+      type: "pages"
     values:
       layout: "default"
       summary: ""

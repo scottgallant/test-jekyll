@@ -7,4 +7,6 @@ in_menu: ''
 summary: ''
 keywords: ''
 blahb_lah: ''
+categories: []
 ---
+content

@@ -1,3 +1,27 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: field_group
+  name: column_1
+  label: Column 1
+  fields:
+  - type: text
+    label: Header
+    name: header
+  - type: textarea
+    name: text
+    label: Text
+    config:
+      wysiwyg: true
+- type: field_group
+  name: column_2
+  label: Column 2
+  fields:
+  - type: text
+    name: heading
+    label: Heading
+  - type: textarea
+    name: text
+    label: Text
+    config:
+      wysiwyg: true

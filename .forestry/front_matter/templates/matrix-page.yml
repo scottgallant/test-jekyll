@@ -7,3 +7,13 @@ fields:
   template_types:
   - 2-column-block
   - quote
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: matrix
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''

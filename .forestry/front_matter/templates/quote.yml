@@ -1,0 +1,9 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: Author
+- type: textarea
+  name: quote
+  label: Quote text

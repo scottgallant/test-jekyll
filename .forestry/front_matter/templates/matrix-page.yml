@@ -5,4 +5,5 @@ fields:
   name: blocks
   label: Blocks
   template_types:
+  - 2-column-block
   - quote

@@ -8,9 +8,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: 
-  name: block2
-  label: block2
+- type: boolean
+  label: Blocks2
+  name: blocks2
   template_types:
   - quote
   - 2-column-block

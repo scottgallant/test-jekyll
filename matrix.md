@@ -27,6 +27,23 @@ block2:
       Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus
       porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
       Curabitur blandit tempus porttitor.</em>"
+blocks2:
+- template: quote
+  author: Scotty
+  quote: " non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec sed
+    odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus
+    porttitor."
+- template: 2-column-block
+  column_1:
+    heading: one
+    text: " non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec
+      sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit
+      tempus porttitor."
+  column_2:
+    heading: '2'
+    text: ' non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec
+      sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit
+      tempus porttitor.<br><br><br><img src="/uploads/2018/01/23/logo.png">'
 ---
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor.
 

@@ -10,4 +10,5 @@ fields:
   name: blocks2
   label: blocks2
   template_types:
+  - quote
   - 2-column-block

@@ -51,6 +51,16 @@ blocks2:
     amet risus. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id
     nibh ultricies vehicula ut id elit. Nullam quis risus eget ur
+- template: quote
+  author: Someone else
+  quote: E = mc^2
+- template: hero
+  heading: Hero 2
+  text: Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec
+    ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor.
+    Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur
+    blandit tempus porttitor.
+  image: "/test-jekyll/uploads/2018/04/06/building3.jpg"
 ---
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor.
 

@@ -25,3 +25,9 @@ fields:
   template_types:
   - quote
   - 2-column-block
+- type: boolean
+  name: blocks3
+  label: Blocks3
+  template_types:
+  - quote
+  - 2-column-block

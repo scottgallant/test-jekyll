@@ -16,9 +16,11 @@ layout: default
         {% assign template = block.template %}
         {% case template %}
         {% when 'quote' %}
-        {% include quote.html %}
+          {% include quote.html %}
         {% when '2-column-block' %}
-        {% include 2-column-block.html %}
+          {% include 2-column-block.html %}
+        {% when 'hero' %}
+          {% include hero.html %}
         {% else %}
 
         {% endcase %}

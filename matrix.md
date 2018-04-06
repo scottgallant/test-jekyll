@@ -8,25 +8,6 @@ summary: ''
 keywords: uno, due, tre
 blahb_lah: ''
 categories: []
-block2:
-- template: quote
-  quote: |+
-    Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor.
-
-  author: Scott
-- template: 2-column-block
-  column_1:
-    text: "<strong>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
-      auctor. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit
-      tempus porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis
-      euismod. Curabitur blandit tempus porttitor.</strong>"
-    heading: Hello
-  column_2:
-    heading: World
-    text: "<em>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-      Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus
-      porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
-      Curabitur blandit tempus porttitor.</em>"
 blocks2:
 - template: quote
   author: Scotty

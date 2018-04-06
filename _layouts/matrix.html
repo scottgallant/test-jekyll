@@ -9,6 +9,23 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    {% for block in page.blocks3 %}
+      <div class="">
+
+
+        {% assign template = block.template %}
+        {% case template %}
+        {% when 'quote' %}
+        {% include quote.html %}
+        {% when '2-column-block' %}
+        {% include 2-column-block.html %}
+        {% else %}
+
+        {% endcase %}
+
+      </div>
+    {% endfor %}
+    <hr>
     {{ content }}
   </div>
 

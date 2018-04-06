@@ -41,9 +41,9 @@ blocks2:
       tempus porttitor."
   column_2:
     heading: '2'
-    text: ' non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec
-      sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit
-      tempus porttitor.<br><br><br><img src="/uploads/2018/01/23/logo.png">'
+    text: non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec sed
+      odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit
+      tempus porttitor.
 - template: hero
   heading: Title
   image: "/test-jekyll/uploads/2018/04/06/bridge.jpg"

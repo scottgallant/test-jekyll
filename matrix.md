@@ -46,7 +46,7 @@ blocks2:
       tempus porttitor.<br><br><br><img src="/uploads/2018/01/23/logo.png">'
 - template: hero
   heading: Title
-  image: "/uploads/2018/04/06/bridge.jpg"
+  image: "/test-jekyll/uploads/2018/04/06/bridge.jpg"
   text: ursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit
     amet risus. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id

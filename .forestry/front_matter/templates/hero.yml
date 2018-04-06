@@ -2,7 +2,7 @@
 hide_body: false
 fields:
 - type: text
-  default: Title
+  default: ''
   label: heading
   name: heading
 - type: textarea

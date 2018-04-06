@@ -1,16 +1,3 @@
 ---
-pages:
-- matrix.md
 hide_body: false
-fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- type: 
-  name: block2
-  label: block2
-  template_types:
-  - quote
-  - 2-column-block
+fields: []

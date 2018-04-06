@@ -1,0 +1,13 @@
+---
+hide_body: false
+fields:
+- type: text
+  default: Title
+  label: heading
+  name: heading
+- type: textarea
+  name: text
+  label: Text
+- type: file
+  name: image
+  label: Image

@@ -8,6 +8,25 @@ summary: ''
 keywords: uno, due, tre
 blahb_lah: ''
 categories: []
+block2:
+- template: quote
+  quote: |+
+    Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor.
+
+  author: Scott
+- template: 2-column-block
+  column_1:
+    text: "<strong>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor
+      auctor. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit
+      tempus porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis
+      euismod. Curabitur blandit tempus porttitor.</strong>"
+    heading: Hello
+  column_2:
+    heading: World
+    text: "<em>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+      Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus
+      porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
+      Curabitur blandit tempus porttitor.</em>"
 blocks2:
 - template: quote
   author: Scotty
@@ -25,6 +44,13 @@ blocks2:
     text: ' non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec
       sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit
       tempus porttitor.<br><br><br><img src="/uploads/2018/01/23/logo.png">'
+- template: hero
+  heading: Title
+  image: "/uploads/2018/04/06/bridge.jpg"
+  text: ursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit
+    amet risus. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id
+    nibh ultricies vehicula ut id elit. Nullam quis risus eget ur
 ---
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor.
 

@@ -26,14 +26,14 @@ fields:
   - quote
   - 2-column-block
 - type: boolean
-  name: blocks3
-  label: Blocks3
+  name: blocks4
+  label: blocks4
   template_types:
   - quote
   - 2-column-block
 - type: boolean
-  name: blocks4
-  label: blocks4
+  name: blocks3
+  label: Blocks3
   template_types:
   - quote
   - 2-column-block

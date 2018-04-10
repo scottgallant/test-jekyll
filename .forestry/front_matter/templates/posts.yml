@@ -24,7 +24,7 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: post
 - name: title
   label: Title
@@ -72,23 +72,7 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: in_menu
-  label: In menu
-  type: text
-  hidden: false
-  default: ''
-- name: not_working
-  label: Not working
-  type: text
-  hidden: false
-  default: ''
-- name: blahb_lah
-  label: Blahb lah
-  type: text
-  hidden: false
-  default: ''
-- name: yay
-  label: Yay
-  type: text
-  hidden: false
-  default: ''
+- type: file
+  name: banner
+  label: banner
+  description: wide banner image

@@ -37,4 +37,15 @@ blocks2:
   author: Test
   quote: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
     Maecenas sed diam eget risus varius blandit sit amet non magna.
+- template: 2-column-block
+  column_1:
+    text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Maecenas sed diam eget risus varius blandit sit amet non magna.
+    heading: asdf
+  column_2:
+    heading: asdfasdfasdf
+    text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+      Maecenas sed diam eget risus varius blandit sit amet non magna.Aenean eu leo
+      quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed
+      diam eget risus varius blandit sit amet non magna.
 ---

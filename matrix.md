@@ -27,5 +27,14 @@ block2:
       Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus
       porttitor. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.
       Curabitur blandit tempus porttitor.</em>"
-blocks2: []
+blocks2:
+- template: hero
+  heading: asdfa
+  text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+    Maecenas sed diam eget risus varius blandit sit amet non magna.
+  image: "/test-jekyll/cats/car.jpg"
+- template: quote
+  author: Test
+  quote: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+    Maecenas sed diam eget risus varius blandit sit amet non magna.
 ---

@@ -12,7 +12,4 @@ fields:
 - type: blocks
   name: blocks2
   label: blocks2
-  template_types:
-  - hero
-  - quote
-  - 2-column-block
+  template_types: []

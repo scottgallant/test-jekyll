@@ -1,8 +1,6 @@
 ---
 pages:
 - _posts/videos/2018-02-05-first-video.md
-- _posts/2016-09-01-le-strutture.md
-- _posts/2016-08-24-const-and-scanf.md
 - _posts/2016-08-23-funzioni-e-memoria-stack.md
 - _posts/2016-08-22-gestire-le stringhe-con-getchar.md
 - _posts/2016-08-11-ipset-lorum-ipse.md

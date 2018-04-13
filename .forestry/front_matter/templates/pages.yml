@@ -1,12 +1,10 @@
 ---
 pages:
-- image.md
-- index.md
-- don-t-delete.md
 - should-be-draft.md
 - drafty-draft.md
 - _pages/new-page.md
 hide_body: false
+is_partial: false
 fields:
 - name: date
   label: Date

@@ -1,8 +1,8 @@
 ---
 pages:
-- matrix2.md
 - matrix.md
 hide_body: true
+is_partial: false
 fields:
 - name: title
   label: Title

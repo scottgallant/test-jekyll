@@ -1,8 +1,6 @@
 ---
-pages:
-- test.md
-- _pages/new-page.md
 hide_body: false
+is_partial: false
 fields:
 - name: date
   label: Date
@@ -70,3 +68,6 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- test.md
+- _pages/new-page.md

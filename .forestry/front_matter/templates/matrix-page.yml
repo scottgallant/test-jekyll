@@ -1,17 +1,18 @@
 ---
-pages:
-- matrix.md
 hide_body: true
+is_partial: false
 fields:
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
-- type: matrix
+- type: boolean
   name: blocks2
   label: blocks2
   template_types:
   - 2-column-block
   - hero
   - quote
+pages:
+- matrix.md

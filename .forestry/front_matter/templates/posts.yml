@@ -1,8 +1,6 @@
 ---
-pages:
-- _posts/videos/2018-02-05-first-video.md
-- _posts/2016-08-03-welcome-to-jekyll.markdown
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -59,3 +57,6 @@ fields:
   name: banner
   label: banner
   description: wide banner image
+pages:
+- _posts/videos/2018-02-05-first-video.md
+- _posts/2016-08-03-welcome-to-jekyll.markdown

@@ -1,9 +1,11 @@
 ---
-upload_path: "/cats"
-frontmatter_file_url_template: "/test-jekyll/cats"
-body_file_url_template: "/test-jekyll/cats"
 new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
 collections: 
+upload_dir: cats
+public_path: "/test-jekyll/cats"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
